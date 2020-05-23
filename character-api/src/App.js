@@ -13,9 +13,9 @@ function Home(props) {
   return (
     <div>
       <h1>Pokémon API - Homework 5</h1>
-      <p>Go to '<Link to="/pokemon" className="link">localhost:3000/pokemon</Link>' to view all 807 Pokémon.</p>
-      <p>Type the name of a Pokémon after '<u>localhost:3000/pokemon</u>'' to view it's info!</p>
-      <p>i.e. '<Link to="/pokemon/mew" className="link">localhost:3000/pokemon/mew</Link>'</p>
+      <p>Go to '<Link to="/pokemon" className="link">https://jiansorge.github.io/week5-assignment/pokemon</Link>' to view all 807 Pokémon.</p>
+      <p>Type the name of a Pokémon after '<u>https://jiansorge.github.io/week5-assignment/pokemon</u>'' to view it's info!</p>
+      <p>i.e. '<Link to="/pokemon/mew" className="link">https://jiansorge.github.io/week5-assignment/pokemon/mew</Link>'</p>
     </div>
   );
 }
