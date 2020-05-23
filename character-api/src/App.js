@@ -3,7 +3,7 @@ import './App.css';
 import PokemonCard from './PokemonCard.js'
 import PokemonPage from './PokemonPage.js';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Switch,
   Link
