@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/week5-assignment/static/css/main.672f4426.chunk.css",
-    "main.js": "/week5-assignment/static/js/main.a3da6ab2.chunk.js",
-    "main.js.map": "/week5-assignment/static/js/main.a3da6ab2.chunk.js.map",
-    "runtime-main.js": "/week5-assignment/static/js/runtime-main.b4a35807.js",
-    "runtime-main.js.map": "/week5-assignment/static/js/runtime-main.b4a35807.js.map",
-    "static/js/2.832917d5.chunk.js": "/week5-assignment/static/js/2.832917d5.chunk.js",
-    "static/js/2.832917d5.chunk.js.map": "/week5-assignment/static/js/2.832917d5.chunk.js.map",
+    "main.css": "/week5-assignment/static/css/main.c4cc0a09.chunk.css",
+    "main.js": "/week5-assignment/static/js/main.6d01e430.chunk.js",
+    "main.js.map": "/week5-assignment/static/js/main.6d01e430.chunk.js.map",
+    "runtime~main.js": "/week5-assignment/static/js/runtime~main.c8ae0830.js",
+    "runtime~main.js.map": "/week5-assignment/static/js/runtime~main.c8ae0830.js.map",
+    "static/js/2.69b268ce.chunk.js": "/week5-assignment/static/js/2.69b268ce.chunk.js",
+    "static/js/2.69b268ce.chunk.js.map": "/week5-assignment/static/js/2.69b268ce.chunk.js.map",
     "index.html": "/week5-assignment/index.html",
-    "precache-manifest.a3b266810e808e54f6b4f452eb0243ad.js": "/week5-assignment/precache-manifest.a3b266810e808e54f6b4f452eb0243ad.js",
+    "precache-manifest.6c8c9e7b3f3b77cb775dddea2d405bbb.js": "/week5-assignment/precache-manifest.6c8c9e7b3f3b77cb775dddea2d405bbb.js",
     "service-worker.js": "/week5-assignment/service-worker.js",
-    "static/css/main.672f4426.chunk.css.map": "/week5-assignment/static/css/main.672f4426.chunk.css.map",
-    "static/js/2.832917d5.chunk.js.LICENSE.txt": "/week5-assignment/static/js/2.832917d5.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.b4a35807.js",
-    "static/js/2.832917d5.chunk.js",
-    "static/css/main.672f4426.chunk.css",
-    "static/js/main.a3da6ab2.chunk.js"
-  ]
+    "static/css/main.c4cc0a09.chunk.css.map": "/week5-assignment/static/css/main.c4cc0a09.chunk.css.map"
+  }
 }
